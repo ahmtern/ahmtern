@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A tenacious and passionate developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmtern&label=Profile%20views&color=1E5128&style=flat" alt="ahmtern" /> </p>
+
 - 🌱 I’m currently learning **Javascript, React**
 
 - 📫 How to reach me **ahmett.erenn@hotmail.com**
